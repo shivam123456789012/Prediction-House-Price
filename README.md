@@ -12,9 +12,10 @@ I used Python and Jupyter notebooks for this Task. Jupyter notebooks are popular
 # Libraries: 
 I Implore any budding data scientists to familiarise themselves with these libraries:
 
-Pandas — For handling structured data
-Scikit Learn — For machine learning
-NumPy — For linear algebra and mathematics
+Pandas 
+Scikit Learn
+NumPy
+Matplotlib
 
 # Conclusion
 After performing 5 different algorithms on the dataset, Random forest gave the best performance with 88% accuracy. So I decide to consider it for further evaluation.
